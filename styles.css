@@ -112,6 +112,9 @@ h1 {
 }
 .lead { font-size: clamp(17px, 2vw, 19px); color: var(--muted); max-width: 33em; margin: 0 0 28px; }
 .cta { display: flex; flex-wrap: wrap; gap: 12px; }
+.fine { margin: 14px 0 0; font-size: 14px; color: var(--faint); }
+.fine a, .faq details p a { color: var(--muted); text-decoration: underline; text-underline-offset: 3px; }
+.fine a:hover, .faq details p a:hover { color: var(--text); }
 .trust { display: flex; flex-wrap: wrap; gap: 8px 22px; margin: 26px 0 0; padding: 0; list-style: none; color: var(--faint); font-size: 14px; }
 .trust li { display: inline-flex; align-items: center; gap: 8px; }
 .trust svg { width: 16px; height: 16px; color: var(--mint); }
