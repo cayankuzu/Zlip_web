@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zlip-web.vercel.app/sitemap.xml
