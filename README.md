@@ -4,6 +4,7 @@ Galaxy Z Flip kapak ekranı uygulaması **Zlip**'in tanıtım sitesi ve gizlilik
 
 - Canlı: https://zlip-web.vercel.app
 - Gizlilik politikası: https://zlip-web.vercel.app/gizlilik (`/privacy` da buraya yönlenir)
+- Uygulamanın kaynak kodu: https://github.com/cayankuzu/Zlip
 
 ## Yapı
 
